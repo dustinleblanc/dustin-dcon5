@@ -1,0 +1,14 @@
+uuid: 0f654651-ea6e-425d-a0fb-7bab9a77ace5
+name: dustin-dcon5
+mail: dustin+drupalcon@pantheon.io
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: en
+default_langcode: en
+_core:
+  default_config_hash: AyT9s8OUcclfALRE_imByOMgtZ19eOlqdF6zI3p7yqo
